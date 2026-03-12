@@ -24,10 +24,10 @@ SSH Hardening of linux server
 ![sshd congig](screenshots/sshd_config.png)
 
 ### Configure UFW to allow ssh traffic on port 2222 only
-![firewall rules](ufw_rules.png)
+![firewall rules](screenshots/ufw_rules.png)
 
 ### Enable brute-force protection (Fail2Ban)
-![fail2ban status](fail2ban_status.png)
+![fail2ban status](screenshots/fail2ban_status.png)
 
 ## Security Improvements
 - Prevent direct root attacks by disabling root login
