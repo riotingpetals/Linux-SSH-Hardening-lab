@@ -20,15 +20,14 @@ SSH Hardening of linux server
 ### Disable login with password and require public key
 ![SSH config](screenshots/ssh_config.png)
 
-### Disable Root login
-
-### Change the default SSH port to 2222
-
-### Configure sshd to listen on port 2222
+### Disable Root login and change ssh port to 2222
+![sshd congig](screenshots/sshd_config.png)
 
 ### Configure UFW to allow ssh traffic on port 2222 only
+![firewall rules](ufw_rules.png)
 
 ### Enable brute-force protection (Fail2Ban)
+![fail2ban status](fail2ban_status.png)
 
 ## Security Improvements
 - Prevent direct root attacks by disabling root login
