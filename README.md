@@ -32,5 +32,12 @@ SSH Hardening of linux server
 - Block brute-force attempts by enablin Fail2Ban
 
 ## Skills Used
+- Linux system administration
+- SSH configuration
+- Firewall configuration
+- Security Hardening
+- Brute-force mitigation
+- Access control implementation
+
 
 
