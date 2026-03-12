@@ -29,6 +29,9 @@ SSH Hardening of linux server
 ### Enable brute-force protection (Fail2Ban)
 ![fail2ban status](screenshots/fail2ban_status.png)
 
+### Successful SSH Key login
+![ssh key login](screenshots/ssh_login.png)
+
 ## Security Improvements
 - Prevent direct root attacks by disabling root login
 - Eliminate password brute-force by enabling SSH keys
